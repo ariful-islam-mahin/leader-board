@@ -1,0 +1,40 @@
+.max-w{
+    max-width: 866px;
+}
+.navbar-sec{
+    background-color: #562EFF;
+}
+.sm-img{
+    width: 51px;
+}
+.logo{
+    width: 41px;
+}
+body{
+    background-color: #f3f1ff;
+}
+#text-lapis{
+    color: #562EFF;
+}
+.md-img{
+    width: 177px;
+}
+.orng{
+    color: #ED6B4F;
+}
+.star{
+    width: 15px;
+}
+.clock{
+    width: 20px;
+}
+.time-text{
+    color: #FF4A60;
+}
+.time{
+    background-color: #FFE4E8;
+    border-radius: 30px;
+}
+.card{
+    border-radius: 18px !important;
+}
